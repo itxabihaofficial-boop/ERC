@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+firebase-service-account*.json
+*-firebase-adminsdk-*.json
+.expo/
+dist/
+web-build/
